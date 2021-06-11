@@ -1,0 +1,7 @@
+/*.png
+icon/*.png
+event.json
+skill.json
+icon.json
+*.bat
+/__pycache__
